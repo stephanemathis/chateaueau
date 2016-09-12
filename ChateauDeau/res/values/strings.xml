@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="empty"></string>
+    <string name="app_name">Château d\'eau - Sélestat</string>
+    <string name="tab_gallery">Galerie</string>
+    <string name="tab_map">Carte</string>
+    <string name="add_take_photo">PHOTO</string>
+    <string name="add_choose_photo">GALERIE</string>
+    <string name="add_error">Impossible de charger une image depuis le cloud.</string>
+    <string name="add_menu_map_type">Changer le type de carte</string>
+    <string name="add_mail_subject">Nouvelle photo</string>
+    <string name="add_mail_message">Bonjour,\nVoici une nouvelle photo. La position est %1, %2</string>
+    <string name="add_mail_chooser">Par mail…</string>
+    <string name="photo_menu_wallpaper">Choisir comme fond d\'écran</string>
+    <string name="photo_menu_wallpaper_fail">Une erreur est survenu, impossible de changer le fond d\'écran</string>
+    <string name="photo_menu_wallpaper_succes">Fond d\'écran modifié</string>
+    <string name="photo_menu_map">Voir sur la carte</string>
+    <string name="photo_detail_loading_fail">Chargement impossible… Veuillez réessayer.</string>
+    <string name="muzei_settings_title">Photos à afficher</string>
+    <string name="muzei_name">Sélestat</string>
+    <string name="muzei_description">Photos aléatoires de la ville</string>
+    <string name="muzei_settings_menu_delay">Interval</string>
+    <string name="cancel">Annuler</string>
+    <string name="OK">OK</string>
+
+    <string name="transition_detail">img_transition</string>
+</resources>

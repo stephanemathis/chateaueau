@@ -1,0 +1,33 @@
+1408036028458	Delete element
+1408036921149	Rename resource 'activity_loading.xml'
+1408036945404	Rename type 'LoadingScreen'
+1408037032351	Delete element
+1408038879011	Rename package 'fr.mathis.views'
+1408039065067	Copy folder
+1408039073554	Rename resource 'Copy of values-v19'
+1408039079700	Delete element
+1408089394477	Encapsulate field '_context'
+1408089817364	Delete element
+1408090736513	Rename package 'fr.mathis.selestat.moels'
+1408091195239	Encapsulate field '_id'
+1408091204479	Encapsulate field '_thumbnailUrl'
+1408091213353	Encapsulate field '_fullsizeUrl'
+1408091223814	Encapsulate field '_latitude'
+1408091231918	Encapsulate field '_longitude'
+1408093126345	Delete element
+1408094193456	Delete element
+1408106354806	Copy file
+1408127033447	Delete element
+1408127659346	Delete element
+1408132153849	Copy file
+1408132179079	Rename resource 'layout_land'
+1408134751266	Rename type 'MyDBOpenHelper'
+1408136328603	Rename type 'StateHolder'
+1408136365808	Rename type 'PreferenceManager'
+1408180584161	Copy file
+1408182727650	Delete element
+1408183674437	Copy file
+1408183924292	Copy file
+1408187784732	Encapsulate field '_ratio'
+1408187794925	Encapsulate field '_color'
+1408208532811	Delete element

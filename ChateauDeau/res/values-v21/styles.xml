@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.Selestat.Base">
+        <item name="android:windowSharedElementEnterTransition">@transition/shared_element_enter</item>
+        <item name="android:windowSharedElementReturnTransition">@transition/shared_element_return</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string-array name="muzei_settings_intervals">
+        <item>Ne jamais changer</item>
+        <item>Toutes les heures</item>
+        <item>Toutes les 3 heures</item>
+        <item>Toutes les 6 heures</item>
+        <item>Toutes les 24 heures</item>
+        <item>Tous les 3 jours</item>
+    </string-array>
+
+</resources>

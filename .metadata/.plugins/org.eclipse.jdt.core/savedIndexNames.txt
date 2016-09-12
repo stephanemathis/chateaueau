@@ -1,0 +1,27 @@
+INDEX VERSION 1.126+C:\Users\Stéphane\Documents\Android\workspaceChateau\.metadata\.plugins\org.eclipse.jdt.core
+3137301042.index
+970372457.index
+3527359873.index
+2407646474.index
+1942536671.index
+2188997403.index
+1296079493.index
+4286541983.index
+2395991132.index
+1883935641.index
+1146152669.index
+3515282563.index
+2177575411.index
+1698925914.index
+2408476183.index
+1475967543.index
+630604842.index
+2385378593.index
+3638055368.index
+2940831069.index
+3341050905.index
+534367877.index
+146517853.index
+848856923.index
+2316518965.index
+159881229.index

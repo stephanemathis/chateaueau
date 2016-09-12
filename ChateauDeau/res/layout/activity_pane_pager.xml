@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/accent_inverse" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/ll_head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:orientation="vertical" >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" >
+
+            <Spinner
+                android:id="@+id/sp_sections"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@null"
+                android:padding="0dp" />
+        </android.support.v7.widget.Toolbar>
+
+        <com.astuetz.PagerSlidingTabStrip
+            android:id="@+id/psts_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:pstsShouldExpand="true" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/v_reveal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/accent_color" />
+
+    <View
+        android:id="@+id/v_reveal_over_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/ll_head"
+        android:background="@color/accent_inverse"
+        android:visibility="invisible" />
+
+    <fr.mathis.selestat.views.fab.FloatingActionButton
+        android:id="@+id/cb_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_content_new"
+        app:fab_colorNormal="@color/accent_color"
+        app:fab_colorPressed="@color/accent_dark"
+        app:fab_colorRipple="@color/transparent_selected" />
+
+</RelativeLayout>
